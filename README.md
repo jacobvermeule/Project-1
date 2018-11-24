@@ -17,4 +17,7 @@ Moeilijkheid:
 De uitdaging in mijn project zit hem voornamelijk in het vinden van data. 
 Waarom dit niet met GIS doen? Omdat ik per land een overzicht wil laten zien, wat de veranderingen zijn in landgebruik (dus afnamen/toename  van bossen, agrarisch land etc). En hoe dit de bodemkwaliteit beinvloed... DUNNO
 
+Data sources:
+https://data.oecd.org
+http://www.fao.org/home/en/
 
