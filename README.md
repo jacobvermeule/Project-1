@@ -28,7 +28,7 @@
 - Main features (MVP): klik op een land en grafiek komt tevoorschijn, switchen tussen verschillende jaren, het jaar wordt dat gehighlight
   in de grafiek.<br/>
   Optional features: wateruitputting toevoegen.
-  
+
 ![alt tag](https://github.com/MSVermet/Project/blob/master/doc/Project-visualisation.png)
 
 ### Data sources: <br />
