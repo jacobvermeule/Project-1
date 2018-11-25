@@ -14,8 +14,8 @@
    Dit leidt tot een onbalans tussen de potenties van het natuurlijk systeem op het gebied van voedsel- en biomassaproductie en de mate 
    waarin dit systeem kan meeveren en zich nog kan herstellen. Voor het behoud en herstel van de balans tussen het natuurlijk systeem en 
    de vraag vanuit de maatschappij op gebied van landbouw en voedsel blijft nieuwe kennis over de bodem en de ondergrond nodig.<br/>
-   Het doel van dit project is een stukje bewustwording creëeren over het belang van goede bodemkwaliteit en welke processen dit 
-   aantasten. Een visualisatie maakt dit onderwerp ook toegankelijk voor mensen zonder voorkennis.   
+ >Het doel van dit project is een stukje bewustwording creëeren over het belang van goede bodemkwaliteit en welke processen dit 
+ aantasten. Een visualisatie maakt dit onderwerp ook toegankelijk voor mensen zonder voorkennis.   
   
 **Visualisatie**:
 - Een kaart dat de mate van bodemdegradatie laat zien aan de hand van kleuren, groen is weinig - rood is veel. Welk werelddeel het wordt 
@@ -46,7 +46,7 @@ te worden. Alleen de data die ik daadwerkelijk ga gebruiken filteren van de rest
 [https://www.globalforestwatch.org/map](https://www.globalforestwatch.org/map)
 
 
-**Moeilijkheid:**
+**Moeilijkheid:**<br/>
 De uitdaging in mijn project zit hem voornamelijk in het maken van een interactieve visualisatie, die gelinkt is aan andere grafieken. 
-En in het vinden van data over bodemdegradatie. 
+Daarnaast gaat het vinden van data over bodemdegradatie ook een uitdaging worden. 
 
