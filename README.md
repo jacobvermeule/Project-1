@@ -23,11 +23,6 @@ Visualisatie:
   dan duidelijk dat bijvoorbeeld ontbossing meer degradatie veroorzaakt. 
   Eerst ga ik focussen op ontbossing en landbouw, daarna zou ik eventueel nog naar waterontrekking kunnen kijken.
 
- ![alt text](file:///C:/Users/matty/OneDrive/Documenten/Minor%20Programmeren/Project%20visualisation.pdf)
-Doel:
-Ik wil door middel van dit project het belang van de bodemkwaliteit weergeven. En welke factoren daar het meeste invloed op hebben.
-Om dit ook voor een leek begrijpelijk te maken en de effecten van een slechte bodem te kunnen vertellen, wordt dat door middel van tekst gedaan. 
-
 Moeilijkheid:
 De uitdaging in mijn project zit hem voornamelijk in het vinden van data. 
 Waarom dit niet met GIS doen? Omdat ik per land een overzicht wil laten zien, wat de veranderingen zijn in landgebruik (dus afnamen/toename  van bossen, agrarisch land etc). En hoe dit de bodemkwaliteit beinvloed... DUNNO
