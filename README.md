@@ -31,10 +31,10 @@ De uitdaging in mijn project zit hem voornamelijk in het vinden van data.
 Waarom dit niet met GIS doen? Omdat ik per land een overzicht wil laten zien, wat de veranderingen zijn in landgebruik (dus afnamen/toename  van bossen, agrarisch land etc). En hoe dit de bodemkwaliteit beinvloed... DUNNO
 
 Data sources: <br />
-[https://data.oecd.org](https://data.oecd.org)
-[https://data.worldbank.org/indicator/AG.LND.AGRI.ZS](https://data.worldbank.org/indicator/AG.LND.AGRI.ZS)
-[http://www.fao.org/home/en/](http://www.fao.org/home/en/)
-[https://ec.europa.eu/eurostat](https://ec.europa.eu/eurostat)
+[https://data.oecd.org](https://data.oecd.org)<br />
+[https://data.worldbank.org/indicator/AG.LND.AGRI.ZS](https://data.worldbank.org/indicator/AG.LND.AGRI.ZS)<br />
+[http://www.fao.org/home/en/](http://www.fao.org/home/en/)<br />
+[https://ec.europa.eu/eurostat](https://ec.europa.eu/eurostat)<br />
 De data kan in CSV format gedownload worden, misschien dat het beter werkt met een JSON. Maar verder hoeft er niet veel veranderd 
 te worden. 
 
@@ -43,6 +43,6 @@ External Components:
 - DataMap
 - Topojson
 
-Similar Visualisation:
+Similar Visualisation:<br />
 [https://www.globalforestwatch.org/map](https://www.globalforestwatch.org/map)
 
