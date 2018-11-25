@@ -1,14 +1,29 @@
-Onderwerpen:
-- Bodemdegradatie; door landuse change, in specific deforestation and cultivation (Europa of ZuidAmerika, ligt aan datasources)
-
-Idee voor visualisatie:
-- een kaart met daarin kleuren met daarin de mate van bodemdegradatie, gebaseerd op achterliggende data van nutrienten 
-  Er moet een grens gesteld worden (wetenschappelijke artikels) waarin we spreken van bodemdegradatie. 
-  Maar als idee heb je een continent met daarin kleuren, rood is erg veel degradatie groen is goed bijvoorbeeld. 
+Onderwerp:
+- Bodemdegradatie; door verandering in landgebruik.
+  Specifiek kijkend naar wat ontbossing en een verandering in de landbouwmethode met de bodemkwaliteit doet. 
+  Bodemdegradatie is het fenomeen waarin de kwaliteit van de bodem daalt door erosie, verdroging, verzilting of uitputting van nutrienten.
+  Er bestaat een verschil tussen chemische en fysische bodemdegradatie. Chemische degradatie betekend een verslechtering in de chemische
+  eigenschappen van de bodem, denk aan verzuring, verzilting en afname van nutrienten. Met fysische degradatie wordt de fysische staat van 
+  de bodem aangetast, bijvoorbeeld structuur verlies wat leidt tot erosie.
+    
+ Doel:
+ - Als gevolg van de ontwikkelingen in de landbouw en de voedselvoorziening komt het natuurlijk systeem onder steeds hogere druk te staan.
+   Dit leidt tot een onbalans tussen de potenties van het natuurlijk systeem op het gebied van voedsel- en biomassaproductie en de mate 
+   waarin dit systeem kan meeveren en zich nog kan herstellen. Voor het behoud en herstel van de balans tussen het natuurlijk systeem en 
+   de vraag vanuit de maatschappij op gebied van landbouw en voedsel blijft nieuwe kennis over de bodem en de ondergrond nodig.
+   Het doel van dit project is een stukje bewustwording creëeren over het belang van goede bodemkwaliteit en welke processen dit 
+   aantasten. Een visualisatie maakt dit onderwerp ook toegankelijk voor mensen zonder voorkennis.   
   
-- Daar kan je dan op klikken, en kan komt er een grafiek tevoorschijn met de verandering van het landgebruik. 
-  Eerst maar op ontbossing focussen, als dat uiteindelijk goed te vinden is, kan ik altijd nog verder kijken naar cultivation oid.
- 
+Visualisatie:
+- Een kaart dat de mate van bodemdegradatie laat zien aan de hand van kleuren, groen is weinig - rood is veel. Welk werelddeel het wordt 
+  hangt nog een beetje af van de data. 
+  Het idee is dat je kan klikken op een land, waarna een grafiek te voorschijn komt met daarin gegevens over de verandering in landgebruik.
+  Door middel van deze gegevens wordt duidelijk hoe bepaalde landtypen (bossen, agrarisch, steden) zich hebben ontwikkeld over de jaren. 
+  Om de visualisatie dynamischer te maken wordt er ook een tijdspan geimplementeerd bij de basis kaart over bodemdegradatie. Hierin wordt
+  dan duidelijk dat bijvoorbeeld ontbossing meer degradatie veroorzaakt. 
+  Eerst ga ik focussen op ontbossing en landbouw, daarna zou ik eventueel nog naar waterontrekking kunnen kijken.
+
+ ![alt text](file:///C:/Users/matty/OneDrive/Documenten/Minor%20Programmeren/Project%20visualisation.pdf)
 Doel:
 Ik wil door middel van dit project het belang van de bodemkwaliteit weergeven. En welke factoren daar het meeste invloed op hebben.
 Om dit ook voor een leek begrijpelijk te maken en de effecten van een slechte bodem te kunnen vertellen, wordt dat door middel van tekst gedaan. 
