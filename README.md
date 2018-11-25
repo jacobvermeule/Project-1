@@ -29,7 +29,7 @@
   in de grafiek.<br/>
   Optional features: wateruitputting toevoegen.
   
-![alt tag](https://github.com/MSVermet/Project/blob/master/Project-visualisation.png)**
+![alt tag](https://github.com/MSVermet/Project/blob/master/Project-visualisation.png)
 
 ### Data sources: <br />
 [https://data.oecd.org](https://data.oecd.org)<br />
