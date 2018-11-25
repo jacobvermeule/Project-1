@@ -22,6 +22,9 @@ Visualisatie:
   Om de visualisatie dynamischer te maken wordt er ook een tijdspan geimplementeerd bij de basis kaart over bodemdegradatie. Hierin wordt
   dan duidelijk dat bijvoorbeeld ontbossing meer degradatie veroorzaakt. 
   Eerst ga ik focussen op ontbossing en landbouw, daarna zou ik eventueel nog naar waterontrekking kunnen kijken.
+- Main features (MVP): klik op een land en grafiek komt tevoorschijn, switchen tussen verschillende jaren, het jaar wordt dat gehighlight
+  in de grafiek.
+  Optional features: wateruitputting toevoegen.
 
 Moeilijkheid:
 De uitdaging in mijn project zit hem voornamelijk in het vinden van data. 
@@ -29,5 +32,17 @@ Waarom dit niet met GIS doen? Omdat ik per land een overzicht wil laten zien, wa
 
 Data sources:
 https://data.oecd.org
+https://data.worldbank.org/indicator/AG.LND.AGRI.ZS
 http://www.fao.org/home/en/
+https://ec.europa.eu/eurostat
+De data kan in CSV format gedownload worden, misschien dat het beter werkt met een JSON. Maar verder hoeft er niet veel veranderd 
+te worden. 
+
+External Components:
+- D3-tip
+- DataMap
+- Topojson
+
+Similar Visualisation:
+[I'm an inline-style link](https://www.globalforestwatch.org/map)
 
